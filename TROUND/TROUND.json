@@ -1,7 +1,7 @@
 {
    "name": "TROUND",
    "logoURI": "https://cdn.sunpump.meme/public/logo/TROUND_TPgZj5_tk0LDT986eKc.png",
-   "timestamp": 1610339529000, #Update time in millisecond
+   "timestamp": 1724617097820,
    "tokens": [{
            "chainId": 1,
            "address": "TY16TQhzq815piAMYeJYm95q9wooksV5DG",
@@ -19,7 +19,7 @@
            "logoURI": "https://cdn.sunpump.meme/public/logo/TROUND_TPgZj5_tk0LDT986eKc.png"
        }
    ],
-   "version": { #Version info
+   "version": {
        "major": 1,
        "minor": 0,
        "patch": 0
