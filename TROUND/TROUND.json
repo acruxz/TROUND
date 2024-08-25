@@ -1,19 +1,27 @@
 {
-"name": "TROUND",
-"logoURI": "https://cdn.sunpump.meme/public/logo/TROUND_TPgZj5_tk0LDT986eKc.png",
-"timestamp": 1610339529000,
-"tokens": [{
-"chainId": 1,
-"address": "TY16TQhzq815piAMYeJYm95q9wooksV5DG",
-"name": "TROUND",
-"symbol": "TROUND",
-"decimals": 18,
-"logoURI": "https://cdn.sunpump.meme/public/logo/TROUND_TPgZj5_tk0LDT986eKc.png"
-}
-],
-"version": {
-"major": 1,
-"minor": 0,
-"patch": 0
-}
+   "name": "TROUND",
+   "logoURI": "https://cdn.sunpump.meme/public/logo/TROUND_TPgZj5_tk0LDT986eKc.png",
+   "timestamp": 1610339529000, #Update time in millisecond
+   "tokens": [{
+           "chainId": 1,
+           "address": "TY16TQhzq815piAMYeJYm95q9wooksV5DG",
+           "name": "TROUND",
+           "symbol": "TROUND",
+           "decimals": 8,
+           "logoURI": "https://cdn.sunpump.meme/public/logo/TROUND_TPgZj5_tk0LDT986eKc.png"
+       },
+       {
+           "chainId": 1,
+           "address": "TY16TQhzq815piAMYeJYm95q9wooksV5DG",
+           "name": "TROUND",
+           "symbol": "TROUND",
+           "decimals": 18,
+           "logoURI": "https://cdn.sunpump.meme/public/logo/TROUND_TPgZj5_tk0LDT986eKc.png"
+       }
+   ],
+   "version": { #Version info
+       "major": 1,
+       "minor": 0,
+       "patch": 0
+   }
 }
